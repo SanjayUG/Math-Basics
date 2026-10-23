@@ -12,11 +12,12 @@
 
 ### 🔄 Exponential Equations & Resultant Transformations ($a^m = b^n$)
 
-When solving higher-level algebraic equations where bases and powers are compared, use these structural identities:
-
-| Equation Form | Resultant Transformation / Property | Core Condition / Note |
+| Equation Form | Resultant Transformation / Property | 💡 Practical Example |
 | :--- | :--- | :--- |
-| **$a^m = b^n$** | $a = b^{\frac{n}{m}}$ &nbsp;or&nbsp; $b = a^{\frac{m}{n}}$ | **Power Transfer:** Moving a power to the other side flips it into a reciprocal fraction. |
-| **$a^m = a^n$** | $m = n$ | **Equal Bases:** If bases match, powers must be equal (valid for $a \neq 0, 1, -1$). |
-| **$a^m = b^m$** | $a = b$ | **Equal Powers:** If powers match, bases must be equal (when $m$ is odd and $m \neq 0$). |
-| **$a^m = b^n$** | $\frac{m}{n} = \log_a(b)$ &nbsp;or&nbsp; $m\log(a) = n\log(b)$ | **Logarithmic Shift:** Used when bases cannot be easily broken down into matching prime components. |
+| **$a^m = b^n$** | $a = b^{\frac{n}{m}}$ &nbsp;or&nbsp; $b = a^{\frac{m}{n}}$ | If $x^3 = 8^2$, then $x = (8^2)^{\frac{1}{3}} = 8^{\frac{2}{3}} = \mathbf{4}$ |
+| **$a^m = a^n$** | $m = n$ | If $2^{x+1} = 2^5$, then $x+1 = 5 \rightarrow x = \mathbf{4}$ |
+| **$a^m = b^m$** | $a = b$ | If $(x-2)^3 = 5^3$, then $x-2 = 5 \rightarrow x = \mathbf{7}$ |
+| **$a^m = b^n$** | $\frac{m}{n} = \log_a(b)$ &nbsp;or&nbsp; $m\log(a) = n\log(b)$ | If $2^x = 3^5$, then $x = 5 \cdot \log_2(3)$ |
+
+***
+*Note: This layout is optimized for GitHub's dark and light markdown preview screens.*
