@@ -1,16 +1,12 @@
-### 📊 Fraction Modification Cheat Sheet
-
-
+# 📊 Fraction Modification Cheat Sheet
 
 | Action Taken | 🎯 Value Comparison | 💡 Easy Numerical Example (Base 100) | 📈 % Change from Actual |
 | :--- | :--- | :--- | :--- |
-| **⬆️ Denom Only** | **📉 Less than** actual (**`<`**) | **⬇️** $\frac{40}{100}$ ($0.40$) $\rightarrow$ $\frac{40}{102}$ ($0.392$) | **-1.96%** |
-| **⬇️ Denom Only** | **📈 Greater than** actual (**`>`**) | **⬆️** $\frac{40}{100}$ ($0.40$) $\rightarrow$ $\frac{40}{98}$ ($0.408$) | **+2.04%** |
-| **⬆️ Numerator Only** | **📈 Greater than** actual (**`>`**) | **⬆️** $\frac{40}{100}$ ($0.40$) $\rightarrow$ $\frac{42}{100}$ ($0.420$) | **+5.00%** |
-| **⬇️ Numerator Only** | **📉 Less than** actual (**`<`**) | **⬇️** $\frac{40}{100}$ ($0.40$) $\rightarrow$ $\frac{38}{100}$ ($0.380$) | **-5.00%** |
-| **⬆️ Both** (Same Amount) | **📈 Greater than** actual (**`>`**) | **⬆️** $\frac{40}{100}$ ($0.40$) $\rightarrow$ $\frac{42}{102}$ ($0.412$) | **+2.94%** |
-| **⬇️ Both** (Same Amount) | **📉 Less than** actual (**`<`**) | **⬇️** $\frac{40}{100}$ ($0.40$) $\rightarrow$ $\frac{38}{98}$ ($0.388$) | **-3.06%** |
-| **⬆️ Num & ⬇️ Denom** | **🚀 Much greater** (**`>>`**) | **⬆️⬆️** $\frac{40}{100}$ ($0.40$) $\rightarrow$ $\frac{42}{98}$ ($0.429$) | **+7.14%** |
-| **⬇️ Num & ⬆️ Denom** | **📉📉 Much less** (**`<<`**) | **⬇️⬇️** $\frac{40}{100}$ ($0.40$) $\rightarrow$ $\frac{38}{102}$ ($0.373$) | **-6.86%** |
-
-***
+| **⬆️ Denom Only** | **📉 Less than** actual (**`<`**) | **⬇️** $\frac{10}{100}$ ($0.100$) $\rightarrow$ $\frac{10}{102}$ ($0.0980$) | **-1.96%** |
+| **⬇️ Denom Only** | **📈 Greater than** actual (**`>`**) | **⬆️** $\frac{10}{100}$ ($0.100$) $\rightarrow$ $\frac{10}{98}$ ($0.1020$) | **+2.04%** |
+| **⬆️ Numerator Only** | **📈 Greater than** actual (**`>`**) | **⬆️** $\frac{10}{100}$ ($0.100$) $\rightarrow$ $\frac{12}{100}$ ($0.1200$) | **+20.00%** |
+| **⬇️ Numerator Only** | **📉 Less than** actual (**`<`**) | **⬇️** $\frac{10}{100}$ ($0.100$) $\rightarrow$ $\frac{8}{100}$ ($0.0800$) | **-20.00%** |
+| **⬆️ Both** (Same Amount) | **📈 Greater than** actual (**`>`**) | **⬆️** $\frac{10}{100}$ ($0.100$) $\rightarrow$ $\frac{12}{102}$ ($0.1176$) | **+17.65%** |
+| **⬇️ Both** (Same Amount) | **📉 Less than** actual (**`<`**) | **⬇️** $\frac{10}{100}$ ($0.100$) $\rightarrow$ $\frac{8}{98}$ ($0.0816$) | **-18.37%** |
+| **⬆️ Num & ⬇️ Denom** | **🚀 Much greater** (**`>>`**) | **⬆️⬆️** $\frac{10}{100}$ ($0.100$) $\rightarrow$ $\frac{12}{98}$ ($0.1224$) | **+22.45%** |
+| **⬇️ Num & ⬆️ Denom** | **📉📉 Much less** (**`<<`**) | **⬇️⬇️** $\frac{10}{100}$ ($0.100$) $\rightarrow$ $\frac{8}{102}$ ($0.0784$) | **-21.57%** |
