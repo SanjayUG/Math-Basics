@@ -7,10 +7,10 @@
 |---|---:|---:|---:|---:|---:|
 | sin θ | 0 | 1/2 | 1/√2 | √3/2 | 1 |
 | cos θ | 1 | √3/2 | 1/√2 | 1/2 | 0 |
-| tan θ | 0 | 1/√3 | 1 | √3 | Not Defined |
-| cosec θ | Not Defined | 2 | √2 | 2/√3 | 1 |
-| sec θ | 1 | 2/√3 | √2 | 2 | Not Defined |
-| cot θ | Not Defined | √3 | 1 | 1/√3 | 0 |
+| tan θ | 0 | 1/√3 | 1 | √3 | ND |
+| cosec θ | ND | 2 | √2 | 2/√3 | 1 |
+| sec θ | 1 | 2/√3 | √2 | 2 | ND |
+| cot θ | ND | √3 | 1 | 1/√3 | 0 |
 
 ## 2. Degree to Radian Conversion
 
